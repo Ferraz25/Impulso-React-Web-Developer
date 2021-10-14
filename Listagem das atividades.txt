@@ -1,0 +1,3 @@
+Listagem dos projetos a serem realizados:
+
+1. Criação de um repositório no GitHub para colocar os projetos e atividades desenvolvidos no bootcamp. 
